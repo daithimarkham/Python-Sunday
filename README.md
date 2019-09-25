@@ -1,2 +1,2 @@
 # Python-Sunday
-Simple program to get todays date
+Simple program which will output what day it is today.
